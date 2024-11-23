@@ -1,4 +1,4 @@
-# param373r.github.io
+# defaultparam.github.io
 Things to be added:
 - Projects Section
 - Courses and Certifications Section
